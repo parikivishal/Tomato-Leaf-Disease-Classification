@@ -5,7 +5,6 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Dataset](#dataset)
-- [Project Structure](#project-structure)
 - [Model Architecture](#model-architecture)
 - [Flask Application](#flask-application)
 - [Installation](#installation)
@@ -26,8 +25,6 @@ The dataset used in this project is sourced from Kaggle and contains images of h
 - **Classes:** The dataset includes images of various tomato leaf diseases such as Leaf Mold, Bacterial Spot, Early Blight, etc., along with healthy leaves.
 - **Number of Images:** Approximately 10,000 images.
 - **Image Resolution:** Varies, preprocessed to a standard size for model training.
-
-
 
 ## Model Architecture
 
